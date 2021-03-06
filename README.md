@@ -7,7 +7,7 @@
   
 ## Spotify Playing Now:
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0qpz1n1f9dcw2xhaydhpzjn27)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RiseToDev Spotify Playing" width="350" />](https://open.spotify.com/user/0qpz1n1f9dcw2xhaydhpzjn27)
   
  ## Langauges I Know:
 
