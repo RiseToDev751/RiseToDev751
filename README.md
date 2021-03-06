@@ -7,7 +7,7 @@
   
 ## Spotify Playing Now:
 
-[<img src="https://http://novatorem-i4l9tpul2-risetodev751.vercel.app/api/spotify-playing" alt="RiseToDev Spotify Playing" width="350" />](https://open.spotify.com/user/0qpz1n1f9dcw2xhaydhpzjn27)
+[<img src="https://novatorem-risetodev751.vercel.app/api/spotify-playing"/api/spotify-playing" alt="RiseToDev Spotify Playing" width="350" />](https://open.spotify.com/user/0qpz1n1f9dcw2xhaydhpzjn27)
   
  ## Langauges I Know:
 
