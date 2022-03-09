@@ -4,11 +4,7 @@
   <a href="https://www.github.com/RiseToDev751" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/0qpz1n1f9dcw2xhaydhpzjn27" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/risetodev_ahmet" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-## Spotify Playing Now:
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RiseToDev Spotify Playing" width="350" />](https://open.spotify.com/user/0qpz1n1f9dcw2xhaydhpzjn27)
-  
+ 
  ## Langauges I Know:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
